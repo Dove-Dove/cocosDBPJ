@@ -9,5 +9,13 @@
     3. 오브젝트 풀링을 이용
 
 ## 사용 이미지
+<img src="./ReadMeImg/Bullet.png" >   
+<img src="./ReadMeImg/EnemyBullet.png" >
+<img src="./ReadMeImg/SubFire.png" >
+<img src="./ReadMeImg/UserIdle01.png" >
+
+## 중단 사유
+    1. 생각보다 구현 하는대 긴 시간이 사용됨
+    2. 최소한의 구현은 완료가 되었다고 생각
     
 
